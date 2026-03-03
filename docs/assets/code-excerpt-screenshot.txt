@@ -1,7 +1,10 @@
+Repository: DJ-tools
+Generated: 2026-03-03
+
+Source: README.md
+
 # Dj Tools
-
 a utility tool package, gathering lab for all music/DJ-related local software living technology evolutions/innovations/adaptations/functional-advancement while keeping the humane focused experience
-
 ## Documentation & Proof
 - Project narrative: [docs/PROJECT_NARRATIVE.md](docs/PROJECT_NARRATIVE.md)
 - CI guard: [.github/workflows/documentation-proof.yml](.github/workflows/documentation-proof.yml)
